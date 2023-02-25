@@ -1,0 +1,33 @@
+.home-content .container {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.home-content .container .row {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.home-content .container .row .book-bordered {
+    border-bottom: 6px solid #151515;
+    border-radius: 8%;
+}
+
+.home-content .container .row .book-passionate {
+    width: 100%;
+}
+
+.home-content .container .row.division {
+    background-color: #232323;
+}
+
+p.white {
+    color: white !important;
+    font-size: 2em;
+    font-weight: 700;
+}
+
+img.d-block.w-100 {
+    width: 100%;
+    max-height: 700px;
+}
